@@ -8,8 +8,8 @@
 
 - Euler's forward (explicit) method.
 - Euler's backward (implicit) method.
-- Runge Kutta second order method.
-- Runge kutta third order method.
-- Runge kutta 4th order method.
+- Runge-Kutta second order method.
+- Runge-Kutta third order method.
+- Runge-Kutta 4th order method.
 
 
