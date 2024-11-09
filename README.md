@@ -1,4 +1,4 @@
-# Numerics_discretization_of_PDEs
+<h1 align = center > Numerics_discretization_of_PDEs </h1>h1
 <h2 align =center> In this project I have implemented Euler's method to discretize the PDE. </h2>
 <h3> The Differential equation is given below. </h3>
 <p align = center> $$ y' = 3-2t -0.5y $$</p>
