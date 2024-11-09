@@ -6,7 +6,7 @@
 <p> Here we will use Euler's method we will approximate the pde in its neighborhood by its tangent line meaning we will use the first step methods to check how the error propagates as the steps increase and it's also accumulates by increasing the number of steps. </p>
 <p> WE will use the following methods to discretize the PDE. </p>
 
-- Euler's forward method.
+- Euler's forward (explicit) method.
 - Euler's backward (implicit) method.
 - Runge Kutta second order method.
 - Runge kutta third order method.
