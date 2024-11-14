@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src= "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
 
 
 <h1>Numerics_discretization_of predator, pre differential equations.</h1> 
