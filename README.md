@@ -1,5 +1,5 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"> </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
 <h1>Numerics_discretization_of predator, pre differential equations.</h1> 
 <h2 align =center> I have implemented the following methods in this project. </h2> 
