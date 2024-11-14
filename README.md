@@ -7,7 +7,7 @@
   
 <h3> The Differential equation is given below. </h3>
 
-<p align = center> \( b' = \lambda_b \cdot b \cdot \left(1 - \frac{r}{r_e}\right) \)</p>
+<p align = center> $$ b_{dot} = \lambda_b \cdot b \cdot \left(1 - \frac{r}{r_e}\right) \) $$ </p>
 <p align = center >  r' = lambda_r * r * (b/b_e -1) </p>
 
 <p>
